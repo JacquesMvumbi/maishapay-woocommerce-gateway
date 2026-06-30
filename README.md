@@ -1,4 +1,3 @@
-```markdown
 # MaishaPay Gateway for WooCommerce
 
 Official WooCommerce payment gateway developed by **MaishaPay**.
@@ -100,11 +99,9 @@ Compatible with:
 For technical support or questions:
 
 **Email**
-
 support@maishapay.com
 
 **Website**
-
 https://maishapay.online
 
 ---
@@ -112,7 +109,6 @@ https://maishapay.online
 ## Author
 
 **Jacques Mvumbi**
-
 Software Engineer | FinTech Developer
 
 Developed for **MaishaPay**.
@@ -135,6 +131,4 @@ If you'd like to improve this plugin:
 ## License
 
 This project is licensed under the **GNU General Public License v2.0 or later (GPL-2.0-or-later)**.
-
 See the LICENSE file for details.
-```
