@@ -1,0 +1,154 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"POT-Creation-Date: 2023-03-03 12:07+0100\n"
+"PO-Revision-Date: 2023-03-03 12:10+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: wc-maishapay.php\n"
+
+#: wc-maishapay.php:39 wc-maishapay.php:41
+msgid "Maishapay plugin"
+msgstr "Maishapay plugin"
+
+#: wc-maishapay.php:40
+msgid ""
+"Maishapay allows you to receive payments (Mobile Money and CARD Payment) in "
+"total security"
+msgstr ""
+"Maishapay allows you to receive payments (Mobile Money and CARD Payment) in "
+"total security"
+
+#: wc-maishapay.php:86
+msgid "MaishaPay Gateway"
+msgstr "MaishaPay Gateway"
+
+#: wc-maishapay.php:87
+msgid ""
+"MaishaPay Gateway redirects customers to their secure server for making "
+"payments."
+msgstr ""
+"MaishaPay Gateway redirects customers to their secure server for making "
+"payments."
+
+#: wc-maishapay.php:98
+msgid "Gateway Disabled"
+msgstr "Gateway Disabled"
+
+#: wc-maishapay.php:98
+msgid "Maishapay Gateway does not support your store currency."
+msgstr "Maishapay Gateway does not support your store currency."
+
+#: wc-maishapay.php:110
+msgid "On / Off"
+msgstr "On / Off"
+
+#: wc-maishapay.php:111
+msgid "Activate this payment method"
+msgstr "Activate this payment method"
+
+#: wc-maishapay.php:117
+msgid "Title"
+msgstr "Title"
+
+#: wc-maishapay.php:119
+msgid "Payment title that the customer will see during the payment process."
+msgstr "Payment title that the customer will see during the payment process."
+
+#: wc-maishapay.php:120
+msgid "MaishaPay"
+msgstr "MaishaPay"
+
+#: wc-maishapay.php:125
+msgid "Description"
+msgstr "Description"
+
+#: wc-maishapay.php:127
+msgid ""
+"Description of the payment that the customer will see during the checkout "
+"process."
+msgstr ""
+"Description of the payment that the customer will see during the checkout "
+"process."
+
+#: wc-maishapay.php:128
+msgid ""
+"wooCommerce payment gateway with MPESA, AIRTEL MONEY, ORANGE MONEY, "
+"AFRIMONEY, VISA CARD, MASTERCARD, AMERICAN EXPRESS and several Wallet "
+"fintech as providers."
+msgstr ""
+"wooCommerce payment gateway with MPESA, AIRTEL MONEY, ORANGE MONEY, "
+"AFRIMONEY, VISA CARD, MASTERCARD, AMERICAN EXPRESS and several Wallet "
+"fintech as providers."
+
+#: wc-maishapay.php:132
+msgid "Currency"
+msgstr "Currency"
+
+#: wc-maishapay.php:135
+msgid "Select currency"
+msgstr "Select currency"
+
+#: wc-maishapay.php:138
+msgid "Mode"
+msgstr "Mode"
+
+#: wc-maishapay.php:141
+msgid "Gateway Mode"
+msgstr "Gateway Mode"
+
+#: wc-maishapay.php:144
+msgid "secretApiKey"
+msgstr "secretApiKey"
+
+#: wc-maishapay.php:146
+msgid "Your APIKey secret corresponding to the chosen Mode"
+msgstr "Your APIKey secret corresponding to the chosen Mode"
+
+#: wc-maishapay.php:149
+msgid "publicApiKey"
+msgstr "publicApiKey"
+
+#: wc-maishapay.php:151
+msgid "Your public APIKey corresponding to the chosen Mode"
+msgstr "Your public APIKey corresponding to the chosen Mode"
+
+#: wc-maishapay.php:154
+msgid "Order status"
+msgstr "Order status"
+
+#: wc-maishapay.php:158
+msgid "Completed"
+msgstr "Completed"
+
+#: wc-maishapay.php:159
+msgid "Processing"
+msgstr "Processing"
+
+#: wc-maishapay.php:160
+msgid "On hold"
+msgstr "On hold"
+
+#: wc-maishapay.php:352
+msgid "Pay Now"
+msgstr "Pay Now"
+
+#: wc-maishapay.php:352
+msgid "Cancel"
+msgstr "Cancel"
+
+#: wc-maishapay.php:391
+msgid "Thank you for your order, please click the button below to pay."
+msgstr "Thank you for your order, please click the button below to pay."
+
+#: wc-maishapay.php:434 wc-maishapay.php:436
+msgid "There was a problem with your payment, please try again."
+msgstr "There was a problem with your payment, please try again."

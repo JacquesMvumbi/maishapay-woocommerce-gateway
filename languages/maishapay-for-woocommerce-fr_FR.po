@@ -1,0 +1,232 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MaishaPay Gateway v4.0\n"
+"POT-Creation-Date: 2024-01-01 00:00+0000\n"
+"PO-Revision-Date: 2024-01-01 00:00+0000\n"
+"Last-Translator: MaishaPay <support@maishapay.online>\n"
+"Language-Team: https://maishapay.online\n"
+"Language: fr_FR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 3.2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: maishapay-gateway.php\n"
+
+# -------------------------------------------------------------------------
+# En-tête plugin
+# -------------------------------------------------------------------------
+
+#: maishapay-gateway.php
+msgid "MaishaPay"
+msgstr "MaishaPay"
+
+#: maishapay-gateway.php
+msgid ""
+"Acceptez les paiements Mobile Money (MPESA, Airtel Money, Orange Money, "
+"Afrimoney) et par carte bancaire (Visa, Mastercard, American Express) via "
+"MaishaPay."
+msgstr ""
+"Acceptez les paiements Mobile Money (MPESA, Airtel Money, Orange Money, "
+"Afrimoney) et par carte bancaire (Visa, Mastercard, American Express) via "
+"MaishaPay."
+
+# -------------------------------------------------------------------------
+# Admin — En-tête section
+# -------------------------------------------------------------------------
+
+#: maishapay-gateway.php
+msgid "MaishaPay Gateway"
+msgstr "Passerelle MaishaPay"
+
+#: maishapay-gateway.php
+msgid ""
+"MaishaPay redirige vos clients vers son serveur sécurisé pour effectuer le "
+"paiement."
+msgstr ""
+"MaishaPay redirige vos clients vers son serveur sécurisé pour effectuer le "
+"paiement."
+
+#: maishapay-gateway.php
+msgid "Passerelle désactivée"
+msgstr "Passerelle désactivée"
+
+#: maishapay-gateway.php
+msgid ""
+"MaishaPay ne supporte pas la devise de votre boutique. Devises acceptées : "
+"CDF, USD, CFA, EUR."
+msgstr ""
+"MaishaPay ne supporte pas la devise de votre boutique. Devises acceptées : "
+"CDF, USD, CFA, EUR."
+
+# -------------------------------------------------------------------------
+# Admin — Champs de configuration
+# -------------------------------------------------------------------------
+
+#: maishapay-gateway.php
+msgid "Activer / Désactiver"
+msgstr "Activer / Désactiver"
+
+#: maishapay-gateway.php
+msgid "Activer MaishaPay comme moyen de paiement"
+msgstr "Activer MaishaPay comme moyen de paiement"
+
+#: maishapay-gateway.php
+msgid "Titre"
+msgstr "Titre"
+
+#: maishapay-gateway.php
+msgid "Titre affiché au client lors du paiement."
+msgstr "Titre affiché au client lors du paiement."
+
+#: maishapay-gateway.php
+msgid "Description"
+msgstr "Description"
+
+#: maishapay-gateway.php
+msgid "Description affichée au client lors du paiement."
+msgstr "Description affichée au client lors du paiement."
+
+#: maishapay-gateway.php
+msgid ""
+"Payez avec MPESA, Airtel Money, Orange Money, Afrimoney, Visa, Mastercard "
+"ou American Express."
+msgstr ""
+"Payez avec MPESA, Airtel Money, Orange Money, Afrimoney, Visa, Mastercard "
+"ou American Express."
+
+#: maishapay-gateway.php
+msgid "Devise"
+msgstr "Devise"
+
+#: maishapay-gateway.php
+msgid "Devise utilisée pour les transactions MaishaPay."
+msgstr "Devise utilisée pour les transactions MaishaPay."
+
+#: maishapay-gateway.php
+msgid "Mode"
+msgstr "Mode"
+
+#: maishapay-gateway.php
+msgid "Choisissez Sandbox pour les tests, Live pour la production."
+msgstr "Choisissez Sandbox pour les tests, Live pour la production."
+
+#: maishapay-gateway.php
+msgid "Sandbox (Test)"
+msgstr "Sandbox (Test)"
+
+#: maishapay-gateway.php
+msgid "Live (Production)"
+msgstr "Live (Production)"
+
+#: maishapay-gateway.php
+msgid "Clé API secrète"
+msgstr "Clé API secrète"
+
+#: maishapay-gateway.php
+msgid "Votre clé API secrète correspondant au mode choisi."
+msgstr "Votre clé API secrète correspondant au mode choisi."
+
+#: maishapay-gateway.php
+msgid "Clé API publique"
+msgstr "Clé API publique"
+
+#: maishapay-gateway.php
+msgid "Votre clé API publique correspondant au mode choisi."
+msgstr "Votre clé API publique correspondant au mode choisi."
+
+#: maishapay-gateway.php
+msgid "Statut après paiement réussi"
+msgstr "Statut après paiement réussi"
+
+#: maishapay-gateway.php
+msgid "Statut attribué à la commande après un paiement accepté."
+msgstr "Statut attribué à la commande après un paiement accepté."
+
+#: maishapay-gateway.php
+msgid "Terminée"
+msgstr "Terminée"
+
+#: maishapay-gateway.php
+msgid "En cours"
+msgstr "En cours"
+
+#: maishapay-gateway.php
+msgid "En attente"
+msgstr "En attente"
+
+# -------------------------------------------------------------------------
+# Frontend — Page de paiement
+# -------------------------------------------------------------------------
+
+#: maishapay-gateway.php
+msgid "Commande introuvable."
+msgstr "Commande introuvable."
+
+#: maishapay-gateway.php
+msgid "Cette commande a déjà été traitée."
+msgstr "Cette commande a déjà été traitée."
+
+#: maishapay-gateway.php
+msgid ""
+"Merci pour votre commande. Cliquez sur le bouton ci-dessous pour procéder "
+"au paiement."
+msgstr ""
+"Merci pour votre commande. Cliquez sur le bouton ci-dessous pour procéder "
+"au paiement."
+
+#: maishapay-gateway.php
+msgid "Payer maintenant"
+msgstr "Payer maintenant"
+
+#: maishapay-gateway.php
+msgid "Annuler"
+msgstr "Annuler"
+
+# -------------------------------------------------------------------------
+# Traitement du paiement
+# -------------------------------------------------------------------------
+
+#: maishapay-gateway.php
+msgid "En attente de paiement MaishaPay."
+msgstr "En attente de paiement MaishaPay."
+
+# -------------------------------------------------------------------------
+# Callback — Statuts de paiement
+# -------------------------------------------------------------------------
+
+#: maishapay-gateway.php
+msgid "Paiement MaishaPay confirmé."
+msgstr "Paiement MaishaPay confirmé."
+
+#: maishapay-gateway.php
+msgid "Paiement accepté via MaishaPay. Référence transaction : %s"
+msgstr "Paiement accepté via MaishaPay. Référence transaction : %s"
+
+#: maishapay-gateway.php
+msgid "Paiement MaishaPay en attente de confirmation."
+msgstr "Paiement MaishaPay en attente de confirmation."
+
+#: maishapay-gateway.php
+msgid ""
+"Votre commande a été passée mais le paiement n'a pas encore été confirmé. "
+"Si vous avez été débité, conservez votre preuve de paiement et contactez "
+"le marchand."
+msgstr ""
+"Votre commande a été passée mais le paiement n'a pas encore été confirmé. "
+"Si vous avez été débité, conservez votre preuve de paiement et contactez "
+"le marchand."
+
+#: maishapay-gateway.php
+msgid "Paiement MaishaPay échoué."
+msgstr "Paiement MaishaPay échoué."
+
+#: maishapay-gateway.php
+msgid "Paiement échoué. Raison : %s"
+msgstr "Paiement échoué. Raison : %s"
+
+#: maishapay-gateway.php
+msgid "Le paiement a échoué : %s. Veuillez réessayer."
+msgstr "Le paiement a échoué : %s. Veuillez réessayer."
